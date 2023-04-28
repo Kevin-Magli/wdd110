@@ -1,0 +1,40 @@
+body {
+    background-color:
+}
+
+nav {
+    background-color: steelblue;
+    display: inline-block;
+    padding: 10px;
+}
+
+li {
+    display: inline-block;
+}
+
+nav a {
+    color: white;
+    display: inline-block;
+    padding: 20px;
+}
+
+h1 {
+    color: steelblue;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border: 1px;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+p {
+    padding: 10px;
+    text-shadow: 10px 5px 15px gray;
+}
+
+footer {
+    padding: 10px;
+}
